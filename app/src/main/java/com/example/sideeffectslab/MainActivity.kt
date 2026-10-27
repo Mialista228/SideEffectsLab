@@ -92,7 +92,7 @@ fun SideEffectsLabApp() {
                 // Render the selected task screen
                 when (currentTask) {
                     LabTask.TASK_1 -> Task1Screen()
-                    LabTask.TASK_2 -> TODO()
+                    LabTask.TASK_2 -> Task2Screen()
                     LabTask.TASK_3 -> TODO()
                     LabTask.TASK_4 -> TODO()
                     LabTask.TASK_5 -> TODO()
