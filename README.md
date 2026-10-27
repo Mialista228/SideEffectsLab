@@ -10,4 +10,4 @@ This repository contains hands-on Jetpack Compose implementations demonstrating 
 5. **Task 5 (Scroll Optimization):** Uses `derivedStateOf` to suppress high-frequency scroll offset recompositions and `snapshotFlow` to turn Compose state changes into a reactive event stream.
 6. **Task 6 (produceState Bonus):** Uses `produceState` to bridge asynchronous suspend functions cleanly into observable Compose `State` with built-in cancellation and conflation.
 
-Answers for theoretical questions in file "Side-Effects Practice Theoretical Question Answers.pdf"
+P.s. Answers for theoretical questions in file "Side-Effects Practice Theoretical Question Answers.pdf"
