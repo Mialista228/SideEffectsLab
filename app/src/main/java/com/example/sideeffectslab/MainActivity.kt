@@ -94,7 +94,7 @@ fun SideEffectsLabApp() {
                     LabTask.TASK_1 -> Task1Screen()
                     LabTask.TASK_2 -> Task2Screen()
                     LabTask.TASK_3 -> Task3Screen()
-                    LabTask.TASK_4 -> TODO()
+                    LabTask.TASK_4 -> Task4Screen()
                     LabTask.TASK_5 -> TODO()
                     LabTask.TASK_6 -> TODO()
                     null -> {}
